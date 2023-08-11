@@ -29,8 +29,3 @@ int	ft_strlen(char *str)
 	}
 	return (i);
 }
-
-int	main(void)
-{
-	printf("%d is the length of Hello, World!\n", ft_strlen("Hello, World!"));
-}

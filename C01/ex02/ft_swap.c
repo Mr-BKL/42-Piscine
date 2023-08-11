@@ -20,14 +20,3 @@ void	ft_swap(int *a, int *b)
 	*a = *b;
 	*b = temp;
 }
-/*
-int	main(void)
-{
-	int	a = 10;
-	int	b = 20;
-
-	printf("%d is A, %d is B\n", a, b);
-	ft_swap(&a, &b);
-	printf("%d is A, %d is B\n", a, b);
-}
-*/

@@ -23,16 +23,3 @@ void	ft_ultimate_div_mod(int *a, int *b)
 	*a = div;
 	*b = mod;
 }
-/*
-int	main(void)
-{
-	int	a = 20;
-	int	b = 10;
-	int	div = 0;
-	int	mod = 0;
-
-	printf("%d is value of DIV and %d is the value of MOD\n", div, mod);
-	ft_ultimate_div_mod(&a, &b);
-	printf("%d is the value of A and %d is the value of B\n", a, b);
-}
-*/
