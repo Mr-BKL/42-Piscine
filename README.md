@@ -30,3 +30,5 @@ I hope you find these projects helpful! 😊 If you have any questions or feedba
 ## Final note:
 
 I'm excited to continue learning C programming and I hope you'll join me on my journey! 🚀 If you have any suggestions for projects that I could work on, please let me know. I'm always looking for new challenges.
+
+The code in this repository is licensed under the MIT License. See LICENSE for more information.
